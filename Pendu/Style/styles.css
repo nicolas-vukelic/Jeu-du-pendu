@@ -1,0 +1,17 @@
+/* Votre Style */
+ul {
+  background: white;
+}
+li, [class*="grid"] > * {
+  background: white;
+}
+header, footer {
+  background: rgb(15, 216, 109);
+}
+main {
+  background: rgb(11, 197, 234);
+}
+aside {
+  background: rgb(11, 197, 234);
+}
+
